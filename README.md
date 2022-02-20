@@ -1,2 +1,2 @@
 # CoweetaMainRepository
-Main Coweeta Efforts
+Main Coweeta Effects
